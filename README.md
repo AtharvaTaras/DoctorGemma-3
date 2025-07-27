@@ -4,6 +4,9 @@
 
 This project demonstrates how to fine-tune the `unsloth/gemma-3-4b-it` language model using Low-Rank Adaptation (LoRA) with 4-bit quantization. The setup is optimized for fast iteration, efficient memory use, and good generalization performance for instruction-based tasks.
 
+Base Model - [Gemma-3 4B](https://huggingface.co/unsloth/gemma-3-4b-it)  
+Dataset - [HealthCareMagic-100k](https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k)
+
 ---
 
 ## 📦 Model Setup

@@ -1,0 +1,18 @@
+# Python 3.11.13
+bitsandbytes==0.46.1
+accelerate==1.9.0
+xformers==0.0.29.post3
+peft==0.16.0
+trl==0.19.1
+triton==3.2.0
+unsloth==2025.7.8
+unsloth_zoo==2025.7.10
+sentence-transformers==4.1.0
+sentencepiece==0.2.0
+protobuf==5.29.5
+datasets==4.0.0
+huggingface-hub==0.34.1
+hf_transfer==0.1.9
+transformers==4.54.0
+tqdm==4.67.1
+cut-cross-entropy==25.1.1

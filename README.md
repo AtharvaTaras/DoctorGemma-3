@@ -1,11 +1,27 @@
 # DoctorGemma-3
 ### Gemma-3 4B LLM Fine Tuned on 100K Doctor-Patient QA Dataset
 
+<p align="left">
+  <a href="https://huggingface.co">
+    <img src="https://img.shields.io/badge/HuggingFace-FFD21F?logo=huggingface&logoColor=black" alt="Hugging Face"/>
+  </a>
+  <a href="https://www.python.org">
+    <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://pytorch.org">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  </a>
+  <a href="https://github.com/unslothai/unsloth">
+    <img src="https://img.shields.io/badge/Unsloth-4B0082?logo=github&logoColor=white" alt="Unsloth"/>
+  </a>
+</p>
+
 
 This project demonstrates how to fine-tune the `unsloth/gemma-3-4b-it` language model using Low-Rank Adaptation (LoRA) with 4-bit quantization. The setup is optimized for fast iteration, efficient memory use, and good generalization performance for instruction-based tasks.
 
 Base Model - [Gemma-3 4B](https://huggingface.co/unsloth/gemma-3-4b-it)  
 Dataset - [HealthCareMagic-100k](https://huggingface.co/datasets/lavita/ChatDoctor-HealthCareMagic-100k)
+
 
 ---
 
